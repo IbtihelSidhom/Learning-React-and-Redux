@@ -29,7 +29,9 @@ are better placed in "front" (aka not nested).
 - A good way to organize your work is to have the major Redux actors in their own directories: store / Reducers / Actions
 
     :white_small_square: A reducer is just a function that takes in state and action, and returns a new state.
+    
     :white_small_square: The state of your whole application is stored in an object tree within a single Redux store.
+    
     :white_small_square: An action is accurately described with a plain JavaScript object. Nothing more. It must have a type field. This field describes the intent of the action.
 
 - It's good to know about "Reducer composition" which means that a single reducer handles the state update for a single field in the state object.
