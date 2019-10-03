@@ -4,6 +4,9 @@
 
 This free book :blue_book: by Emmanuel Ohans: [The World’s Easiest Guide to Beginning Redux](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/) helped me a lot to begin learning Redux. I just followed his instructions throughout the book as he explains redux-related concepts and applied them to the example app.
 
+## :pushpin: Metronome
+
+From Dave Ceddia's Blog: [6 Fun React Projects You Can Build Today](https://daveceddia.com/react-practice-projects/)
 
 
 

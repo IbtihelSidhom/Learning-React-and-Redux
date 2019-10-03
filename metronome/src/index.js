@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import { Metronome } from './Metronome';
 import * as serviceWorker from './serviceWorker';
-import App from './App';
 
 ReactDOM.render(<Metronome />, document.getElementById('root'));
 
