@@ -18,3 +18,11 @@ To get these apps running locally:
 - point to the folder of the app you want to run
 - `npm install` to install all required dependencies
 - `npm start` to start the local server (all apps use create-react-app)
+
+
+
+## Remember :thought_balloon:
+
+:skull_and_crossbones: Don't copy paste. Type it out.
+
+:memo: Take notes.
