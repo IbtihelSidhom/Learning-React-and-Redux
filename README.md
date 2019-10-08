@@ -1,4 +1,7 @@
 # Some apps to get familiar with React and Redux
+</br>
+For anyone wanting to kick off his/her learning journey with React&Redux, here you go. You can find some examples to start with. 
+Feel free to contribute too.
 
 ## :pushpin: Skypey
 
